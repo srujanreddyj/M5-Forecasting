@@ -6,7 +6,6 @@ For detailed EDA and visualization, my inference about the EDA, modelling, Predi
 * Learning and Applying data wrangling, data exploration and forecasting methods.
 * Applying various forecasting methods and coming up with better predictions for 28-100 days for all the items in the data.
 * Learn to tell a story and practice various data visualization techniques
-* Provide an Executive summary and comprehensive conclusion.
 
 ## Data Source
 * [Kaggle](https://www.kaggle.com/c/m5-forecasting-accuracy)
@@ -14,9 +13,11 @@ For detailed EDA and visualization, my inference about the EDA, modelling, Predi
 ## Data Description
 * WALMART data from three states California, Texas, Wisconsin for three product Foods, household and hobbies.
 
-For EDA - see [COLAB](https://colab.research.google.com/drive/1-CQfUBNaHa8o1QruIUUnNPN6lsH_9jlT?usp=sharing)
+## NOTEBOOKS
 
-For LIGHTGBM modeling refer the above notebook
+* For EDA - see [COLAB](https://colab.research.google.com/drive/1-CQfUBNaHa8o1QruIUUnNPN6lsH_9jlT?usp=sharing)
+
+* LightGBM - This notebook contains the implementation for Boosting technique LightGBM to forecast time-series models.
 
 ## Conclusion
 * 9 different time-series were explore instead of 42000 time series
