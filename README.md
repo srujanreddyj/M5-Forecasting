@@ -1,6 +1,6 @@
 # M5-Forecasting
 ---
-For detailed EDA and visualization, my inference about the EDA, modelling, Prediction please visit my [BLOG](https://srujanreddyj.github.io/portfolio/2020/09/26/M5_1.html).
+For detailed insights and visualization of the data, my inferences, modelling, Prediction please visit my [BLOG](https://srujanreddyj.github.io/portfolio/2020/09/26/M5_1.html).
 
 ## Project Goal
 * Learning and Applying data wrangling, data exploration and forecasting methods.
