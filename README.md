@@ -17,7 +17,7 @@ For detailed EDA and visualization, my inference about the EDA, modelling, Predi
 
 * For EDA - see [COLAB](https://colab.research.google.com/drive/1-CQfUBNaHa8o1QruIUUnNPN6lsH_9jlT?usp=sharing)
 
-* LightGBM - This notebook contains the implementation for Boosting technique LightGBM to forecast time-series models.
+* [LightGBM](https://github.com/srujanreddyj/M5-Forecasting/blob/master/LIGHTGBM_forecasting.ipynb) - This notebook contains the implementation for Boosting technique LightGBM to forecast time-series models.
 
 ## Conclusion
 * 9 different time-series were explore instead of 42000 time series
