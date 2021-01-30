@@ -24,7 +24,7 @@ For detailed insights and visualization of the data, my inferences, modelling, P
 * Different forecasting methods have been experimented and explored. 
 * RMSE metric returned about 1.5 - 2.5 for 9 time series models.
 
-## Future Scoep
+## Future Scope
 * Explore LSTM, Prophet
 * Explore more time series, finding trend and seasonality between items in the products and combine them to explore more time-series
 
